@@ -1,5 +1,5 @@
 # lazada-cup
-2018 Lazada analytics cup repository.
+2017 Lazada analytics cup repository.
 
 ## Description
 The task is to build a product title quality model that can automatically grade the clarity and the conciseness of a product title. [details](https://competitions.codalab.org/competitions/16652)
